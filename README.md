@@ -18,3 +18,13 @@ access localhost:8080
 - line2
     - basic line chart
     - data from jsonfile with date column
+
+- app
+    - svg in html to svg file
+    - extract svg file use puppeteer
+
+```
+npm isntall
+node app.js
+```
+
